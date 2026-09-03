@@ -1,2 +1,2 @@
 # Price_Tracker
-This is my first Miniproject
+This is my first Miniproject and I am creating something new
